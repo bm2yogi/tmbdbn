@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "theydeadbynow",
+    "slug": "theydeadbynow",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "theydeadbynow"
+}
